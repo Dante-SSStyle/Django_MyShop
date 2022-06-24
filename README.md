@@ -8,9 +8,9 @@
 
 Также используются RabbitMQ, Celery и Redis
 
-<code>rabbitmq-server
+<code>rabbitmq-server</code>
 
-celery -A Django_MyShop worker -l info</code> - внутри проекта
+<code>celery -A Django_MyShop worker -l info</code> - внутри проекта
 
 Адрес: http://localhost:8000/
 
